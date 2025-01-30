@@ -71,7 +71,7 @@ The application performs several steps during the transfer process:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. This repo can also be edited with Bolt.new! Check out the .bolt folder.
 
 ## License
 
